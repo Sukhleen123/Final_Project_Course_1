@@ -1,0 +1,51 @@
+html {
+    font-variant: small-caps;
+}
+
+body {
+    text-align: center;
+    background-image: url("/static/spooky.jpg");
+    background-size: 1250px 1000px;
+    back-ground-repeat: no-repeat;
+}
+
+.color {
+    color: rgb(40,200,20);
+}
+
+.red {
+    color: rgb(200,10,10);
+    background-color: rgb(200,200,200);
+    font-family: "Lucida Console";
+    text-transformation: uppercase;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding: 20px;
+}
+
+.color2 {
+    color: rgb(210,210,210);
+}
+
+h1 {
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+
+h3 {
+    padding-bottom: 20px;
+    padding-right: 200px;
+    padding-left: 200px;
+}
+
+h5 {
+    text-align: left;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+
+.small {
+    width: 400px;
+    padding: 25px;
+}
+
